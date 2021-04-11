@@ -5,7 +5,7 @@
 Видео с объяснением:
 `https://youtu.be/nB-Ct-CsDgo`
 
-![bash script - 4_terminal_windows_at_startup](https://lp.ru.net/github/ubuntu_4_screen.png)
+![Image alt](https://github.com/kostyashelest/bash/raw/master/img/ubuntu_4_screen.png)
 
 ---
 
