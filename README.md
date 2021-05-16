@@ -19,4 +19,6 @@
 
 ## yii2-auto-completion.sh
 
-Скрипт для вывода списка команд yii2, а также автоподстановка TAB. 
+Скрипт для вывода списка команд yii2, а также автоподстановка TAB.
+
+![Image alt](https://github.com/kostyashelest/bash/raw/master/img/yii2_auto_completion.png)
