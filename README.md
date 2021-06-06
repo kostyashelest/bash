@@ -22,3 +22,11 @@
 Скрипт для вывода списка команд yii2, а также автоподстановка TAB.
 
 ![Image alt](https://github.com/kostyashelest/bash/raw/master/img/yii2_auto_completion.png)
+
+---
+
+## site_status_code
+
+Простой скрипт для проверки статуса ответа сайта. Запускается через cron. Скрипт отправляет сообщение в телеграм и выводит уведомление на экран, в случае ошибки.
+
+![Image alt](https://github.com/kostyashelest/bash/raw/master/img/site_status_code.png)
